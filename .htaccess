@@ -14,4 +14,4 @@ Header set Cache-Control "max-age=7200, public"
 Header unset Cache-Control
 </FilesMatch>
 </IfModule>
-# END Cache-Control Headers
+# END Cache-Control Headers 
