@@ -6,9 +6,9 @@ Header set Cache-Control "max-age=2592000, public"
 <FilesMatch "\.(js)$">
 Header set Cache-Control "max-age=2592000, private"
 </FilesMatch>
-<filesMatch "\.(html|htm)$">
+<FilesMatch "\.(html|htm)$">
 Header set Cache-Control "max-age=7200, public"
-</filesMatch>
+</FilesMatch>
 # Enleve le cache pour les ressources dynamiques
 <FilesMatch "\.(pl|php|cgi|spl|scgi|fcgi)$">
 Header unset Cache-Control
