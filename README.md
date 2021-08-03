@@ -29,9 +29,11 @@ Je doit fournir un rapport d’optimisation.
 Ce rapport devra inclure les comparaisons pour les 10 recommandations.
 
 ## Les livrables:  
-- Le rapport d’analyse SEO du site, dans lequel on identifie clairement les 10 recommandations sélectionnées.  
+- Le rapport d’analyse SEO du site, dans lequel on identifie clairement les 10 recommandations sélectionnées. 
+ [Lien](https://www.notion.so/789ae7f3834c48f5a752f331e4a51060?v=502af5f5ed464c36827e32284682fb14) 
 - Le code source complet du site amélioré.
-- Un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).  
+- Un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité).
+[Lien](https://www.notion.so/La-Chouette-Agence-28e6a69db5f74f8e88ac5c7034761b59)  
 
 ## Compétences évaluées:  
 - Réaliser une recherche des bonnes pratiques en développement web
