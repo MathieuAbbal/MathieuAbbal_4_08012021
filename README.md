@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/72860893/104031269-d0037d80-51cc-11eb-96a9-2fbb80c213a5.png)  
 
 # OPTIMISER UN SITE WEB EXSISTANT  
-je vous présente le quatrième projet de ma formation de Développeur Web chez **OpenClassrooms**  
+4éme projet de ma formation de Développeur Web chez **OpenClassrooms**  
   
 ## Scénario  
 La chouette agence est une gande agence de web design basée à Lyon.  
